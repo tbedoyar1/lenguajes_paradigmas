@@ -1,1 +1,1 @@
-# lenguajes_paradigmas
+# Practica1_LP
