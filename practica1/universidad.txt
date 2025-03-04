@@ -1,0 +1,1 @@
+Estudiante {identificacion = "1234567", ingreso = 2025-03-04 19:01:33.2344193 UTC, salida = Nothing}
